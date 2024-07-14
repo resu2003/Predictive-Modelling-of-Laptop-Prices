@@ -1,0 +1,1 @@
+This study focuses on applying machine learning techniques to predict the prices of laptops based on various features such as brand, specifications, and performance metrics.![image](https://github.com/user-attachments/assets/3819db9f-08da-4bea-977c-fa60375d5f02)
